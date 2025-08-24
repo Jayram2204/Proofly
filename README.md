@@ -61,13 +61,8 @@ Certificates include:
 ## Installation
 
 1. Clone the repository:
-
-
 git clone https://github.com/your-username/proofly.git
 cd proofly
-
 npm install
-
 npm start
-
 Open http://localhost:3000 to see the demo.
